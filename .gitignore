@@ -1,3 +1,9 @@
+content/*
+content/atc/atc_full.m4a
+content/meeting/4_pax_video.mp4
+content/meeting/daily_ketchup.mp4
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
