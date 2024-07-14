@@ -1,0 +1,90 @@
+begin.
+
+speech table:
+```
+start,end,speaker
+11.52,22.07,Tower (Lady)
+22.08,27.69,DAL 1328
+28.17,39.87,Tower (Lady)
+40.37,45.90,SWA 3828
+49.67,58.34,Tower (Male)
+58.92,60.67,DAL 1328
+60.68,64.44,Tower (Male)
+64.94,67.15,SWA 3828
+68.63,77.18,Tower (Male)
+77.19,81.38,SWA 3828
+81.39,85.58,Tower (Male)
+85.59,89.43,SWA 3828
+94.75,96.84,Tower (Male)
+96.85,98.66,DAL 1328
+101.09,102.90,DAL 1328
+104.14,110.03,Tower (Male)
+110.20,113.54,SWA 3828
+114.85,122.44,Tower (Male)
+123.20,126.56,SWA 3828
+143.43,145.70,SWA 3828
+145.75,148.84,Tower (Male)
+149.38,150.94,SWA 3828
+151.10,152.17,Tower (Male)
+153.94,155.38,Tower (Male)
+156.50,158.34,SWA 3828
+162.09,163.77,SWA 3828
+164.04,165.26,Tower (Male)
+165.30,168.37,SWA 3828
+168.38,171.41,Tower (Male)
+171.34,174.11,SWA 3828
+174.34,181.53,Tower (Male)
+182.86,185.90,SWA 3828
+185.97,186.66,Tower (Male)
+187.08,189.18,DAL 1328
+189.21,189.85,Tower (Male)
+191.59,195.85,DAL 1328
+196.23,200.60,Tower (Male)
+```
+
+sentence table:
+```
+"Delta 1328, be advised similar call sign on frequency of Southwest 3828, cross Runway"
+"31 Center and Runway 31 left, taxi via Yankee to 4 right."
+"We're clear to cross 31 Center and 31 left, Yankee to 4 right, Delta 1328, we'll be aware."
+"Southwest 3828, be advised similar call sign on frequency of Delta 1328 and once you approach"
+"31 right as you're crossing it you can switch over to tower, have a good day."
+"Alright we'll be listening up for that and we'll switch over to tower group, approach 31 right, Southwest 3828."
+"Delta 1328, Midway tower, traffic hold position on the cross runway, traffic on the 4 mile"
+"final, land in parallel, and traffic you're on the way 1, 0 mile final, 4 right, line up and wait."
+"Alright Delta 1328, Delta 1328 Midway tower, runway 31 Center, line up and wait, jump line up top." (Last `jump line up top` was inaudible in recording)
+"31 Center, line up and wait, Southwest 3828."
+"Southwest 3828 traffic hold position on the cross runway, traffic on a 3 mile final, cross runway," (note the 'Southwest 3828' at the start was inaudible)
+"no delay please, turn left heading 250, runway 31 Center, clear for takeoff, wind 060 at Niner."
+"completely inaudible"
+"Alright, you call on Southwest 3828, verify no delay left heading 250,"
+"31 Center, clear for takeoff."
+"Cleared for takeoff, 31 Center no delay,  heading 250, Southwest 3828."
+"Delta 3128, stop, stop, stop."  ('Delta 13-' was not audible at all)
+"Delta 1328, reporting."
+"Delta 1328 stopping." ('Delta 1328' inaudible)
+"Make the right turn onto taxiway Delta, right turn to Delta, hold short runway 4 right."
+"Hold short of 4 right, Southwest 3828."
+"Keep answering for each other, Southwest 3828 and Delta 1328, Southwest 3828, make the right turn onto Golf, back taxi runway 31 Center."
+"Right turn on Golf, back taxi 31 Center, we're gonna need to second the other taxiway."
+"..." (mumbling on radio)
+"Southwest 3828, can we stop here?"
+"3828, affirm sir, is it gonna be, do you get hot brakes?"
+"We're gonna check this."
+"Okay, just let me know."
+"Are you gonna be good to go?"
+"Southwest 3828"
+"Southwest 3828?"
+"Go ahead sir?"
+"Yeah, for Southwest on 31 Center, were we the ones clear for takeoff?"
+"Yes sir, you were, you were the one, you were doing what you're supposed to be doing."
+"And Delta took our, Delta was rolling also?"
+"Yep, he took your call sign, somebody kept stepping on you and I couldn't figure out who it was and then, that's why I reiterated that it was you that I was clearing for takeoff."
+"We just gotta run some numbers and contact company."
+"Roger."
+"1328, same thing, got a call company."
+"Roger.
+"Can we say, Kilo Delta 13, or Yankee Delta 1328?"
+"..."
+"1328, if you can, make the left turn into the Yankee pad there and you can sit there for as long as you need."
+```
